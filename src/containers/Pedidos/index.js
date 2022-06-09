@@ -55,7 +55,7 @@ async function deleteOrder(userId) {
         {orders.map((order) => (
           <Order key={order.id}>
             <p>{order.order} </p>
-            <p>{order.clientName}</p>
+            <p><strong>{order.clientName}</strong></p>
             <button onClick={() => deleteOrder(order.id)}>
               <img src={Trash} alt="lata-de-lixo" />
             </button>

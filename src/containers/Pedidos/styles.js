@@ -61,19 +61,27 @@ margin-top: 40px;
 `; 
 export const Order = styled.li`
 width: 342px;
-height: 58px;
+height: 100px;
 background: rgba(255, 255, 255, 0.25);
 border-radius: 14px;
-display: flex;
+/* display: flex;
 justify-content: space-around;
-align-items: center;
+flex-direction: column;
+padding-left: 15px; */
+display: grid;
+grid-template-columns: 5fr 1fr;
+grid-template-rows: 1fr 1fr 1fr;
 margin-top: 20px;
 p{
 font-style: normal;
 font-weight: 400;
-font-size: 23px;
+font-size: 21px;
 line-height: 28px;
 color: #FFFFFF;
+grid-column: 1/4;
+padding-left: 15px;
+padding-top: 10px;
+
 
 }
 
@@ -81,5 +89,8 @@ button {
     border: none; 
     background: none;
     cursor: pointer;
+    grid-column: 5/4;
+    grid-row: 2/3;
+    padding-right: 15px;
 }
 `;
