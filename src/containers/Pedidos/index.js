@@ -26,19 +26,22 @@ useEffect(()=>{
   fetchOrders()
 }, [])
 
-  async function deleteOrder(userId) {
-    try {
-    await axios.delete(`https://localhost:3002/orders/${userId}`)
+async function deleteOrder(userId) {
+  try {
+    await axios.delete(`http://localhost:3002/orders/${userId}`,{
+      header:{
+        'Access-Control-Allow-Origin':'*',
+      }
+    })
     const newOrdes = orders.filter((order) => order.id !== userId);
     setOrders(newOrdes);
   }
-    
-catch (error) {
+
+  catch (error) {
     console.log(error)
-   
- 
-}
+  }
 };
+
 
 
   return (
