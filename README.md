@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# :triangular_flag_on_post: Project - In
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://user-images.githubusercontent.com/101833891/178637089-469896be-5f57-47ad-850d-b8b06ac5816f.jpg" width= "300px;"/> <img src="https://user-images.githubusercontent.com/101833891/178637751-0f573041-d2b3-445c-aa69-a4e5b467fe26.jpg" width= "277px;"/>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# :speech_balloon: About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+It's a application (front-end) about product registration, order screen with delete option. Build with React framework. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Pré-requisitos
 
-### `npm test`
+In the first, you need to install in your computer the follow tools:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and could be good a code editor like as [VSCode](https://code.visualstudio.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :computer: Technologies
+This project was made using the follow technologies:
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)        
+</div>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# :pencil: Autor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<img src="https://user-images.githubusercontent.com/101833891/178617851-68f6be80-9d8f-4f92-9bdd-8e2ec86b11ef.jpg" width="200px;"/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+[![Linkedin Badge](https://img.shields.io/badge/-AngelicaRuiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelicaaruiz/)](https://www.linkedin.com/in/angelicaaruiz/) 
+[![Gmail Badge](https://img.shields.io/badge/-angelica.a.ruiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelica.a.ruiz@gmail.com)](mailto:angelica.a.ruiz@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+# :closed_book: License
+Released in 2022.
+This project is under the ![APM](https://img.shields.io/apm/l/dev)<br>
+Made with love by [Angélica Ruiz](https://github.com/DevAngelRuiz) 💜🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
